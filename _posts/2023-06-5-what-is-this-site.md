@@ -7,7 +7,7 @@ I used to love making websites in the late 90s and early 2000s when I was first 
 
 As I grew older, it felt unnecessary to have a website. There are very valid privacy concerns and a lot of people don’t want to tell the whole world about themselves. But maybe for me the deeper reason was that I didn’t want to show the world who I was. 
 
-After moving to the US in 2010, there was a background embarrassment I used to feel whenever I used to go outside. It came from the feeling of being judged for not looking like the majority race; not speaking like them; not understanding their colloquialisms; not being fashionably groomed or dressed.
+After moving to the US in 2010, there was a background embarrassment I used to feel whenever I used to go outside. It came from the feeling of being judged; for not looking like the majority race; not speaking like them; not understanding their colloquialisms; not being fashionably groomed or dressed.
 
 This embarrassment is real and I feel all Indians have it. It comes from a long rooted colonial inferiority complex that’s reinforced by the Indian media and Indians themselves. Many Indians who are fairly well-settled in the US, consider “fresh-off-the-boat Indians” an embarrassment. I have found this to be more pronounced in the second generation of Indian immigrants (American kids with Indian parents) who hate Indians (see [Indian Matchmaking](https://www.netflix.com/title/80244565) for prime examples). But it’s not restricted to well-settled Indians either. A brief story to illustrate that point
 
