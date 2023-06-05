@@ -12,5 +12,5 @@ I like all sorts of sports. Like any other Indian kid, I played cricket obsessiv
 
 Other than that I like the usual: reading, writing, watching The Office repeatedly, and trying out other silly things.
 
-This website is about all those things. Hope you find something useful here. Enjoy!
+This website is about all of that. Hope you find something useful here. Enjoy!
 
