@@ -26,7 +26,7 @@ But now I am tired of hiding who I am. I am tired of being afraid of what people
 
 To [paraphrase Elon Musk](https://twitter.com/elonmusk/status/1590384919829962752): 
 
-> *_I plan to do a lot of silly things in the coming months. I will keep what works and change what doesn't._*
+> *I plan to do a lot of silly things in the coming months. I will keep what works and change what doesn't.*
 
 Thanks for reading this.
 
