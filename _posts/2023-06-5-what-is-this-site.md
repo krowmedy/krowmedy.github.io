@@ -24,7 +24,9 @@ So what does this have anything to do with this website? This latent embarrassme
 
 But now I am tired of hiding who I am. I am tired of being afraid of what people are going to think of me; of being judged; and of judging people. I will do what I am interested in, and show it to the world. Maybe you like it, maybe you will find something better to do. 
 
-To [paraphrase Elon Musk](https://twitter.com/elonmusk/status/1590384919829962752): I plan to do a lot of silly things in the coming months. I will keep what works and change what doesn't.
+To [paraphrase Elon Musk](https://twitter.com/elonmusk/status/1590384919829962752): 
+
+> *_I plan to do a lot of silly things in the coming months. I will keep what works and change what doesn't._*
 
 Thanks for reading this.
 
