@@ -53,9 +53,10 @@ defaults:
       related: true
 
 # Theme settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes-jekyll@4.24.0"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Author
 author:
