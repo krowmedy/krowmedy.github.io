@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  What is this site?"
 date:   2023-06-05 10:07:59 +0100
 ---
