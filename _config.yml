@@ -18,19 +18,72 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Krowmedy
+title: "Krowmedy"
+subtitle: "Do silly things that don't matter."
+name: "Rohit"
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Do silly things that don't matter.
+  "Do silly things that don't matter."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.krowmedy.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: krowmedy
-github_username: krowmedy 
+url: "https://www.krowmedy.org" # the base hostname & protocol for your site, e.g. http://example.com
+logo: "/assets/images/crow_logo.png"
 
-# Build settings
+# Pages
+include: ["_pages"]
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# Posts
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
+
+# Theme settings
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+
+# Author
+author:
+  name: "Rohit"
+  location: "Edinburgh, UK"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/krowmedy"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/krowmedy"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://instagram.com/krowmedy"
+
+# Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/krowmedy"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/krowmedy"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://instagram.com/krowmedy"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
