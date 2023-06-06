@@ -31,14 +31,6 @@ search: true
 # Pages
 include:
   - _pages
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
 
 # Posts
 defaults:
@@ -52,6 +44,13 @@ defaults:
       read_time: true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 # Theme settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
