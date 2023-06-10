@@ -1,5 +1,5 @@
 ---
-title:  What is this site?"
+title:  What is this site?
 date:   2023-06-05 10:07:59 +0100
 ---
 I used to love making websites in the late 90s and early 2000s when I was first introduced to the internet. Geocities used to be my main host, but I also tried other website hosting services as well. I built a website for myself, my class, and anything I could think of. It was always a hobby and I was quite unafraid of putting content out there.
