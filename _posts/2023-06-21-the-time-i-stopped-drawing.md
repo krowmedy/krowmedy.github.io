@@ -11,7 +11,7 @@ Well turns out, _Commercial Art_ wasn't really the kind of drawing that I did.
 
 In the first class the teacher asked us to make a 6x6 grid by hand, with pencil, and then draw the alphabet in each 6x6 grid. Something like this, but imagine the grid was also drawn by hand.
 
-![Commercial Art Alphabet](images/time-i-stopped-drawing/alphabet.jpg)
+![Commercial Art Alphabet](assets/images/time-i-stopped-drawing/alphabet.jpg)
 
 We were then required to shade the alphabets. It was a pointless exercise. I remember being jealous of all my friends who had taken Yoga/Electronics, and were out playing cricket or basketball in the field while I was sitting on the floor trying to draw a "B" that fit correctly in the grid.
 
@@ -31,7 +31,7 @@ Now we come to the present time in Edinburgh. 2 weeks ago, after grabbing a coff
 
 I loved the class. Without going into the details of what we did, this is what I drew:
 
-![Sunday Drawing](images/time-i-stopped-drawing/sunday.jpg)
+![Sunday Drawing](assets/images/time-i-stopped-drawing/sunday.jpg)
 
 The class gave back something that I feel was taken from me -- the confidence that I knew that I can draw. It may not be the best, but it is mine. 
 
