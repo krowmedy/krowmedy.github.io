@@ -3,9 +3,13 @@ title:  The Time I Stopped Drawing
 date:   2023-06-20 05:35:00 +0100
 ---
 
-Drawing was a big part of my childhood. I wasn't very good, but I liked drawing things that I used to see in comic books. In fact for a long time -- even into adulthood -- I really wanted to be able to draw a comic. There were others who were able to draw better. I had friends who used to draw with straight confident lines, beautifully articulated fingers, realistic duplicates of cartoons. But I appreciated their drawings, and enjoyed doing my own. Drawing doodles for my own sake was a completely safe space to express myself -- though as a kid I never realized that or had those words. But I completely stopped doodling around the 9th grade.
+Drawing was a big part of my childhood. I wasn't very good, but I liked drawing things that I used to see in comic books. In fact for a long time -- even into adulthood -- I really wanted to be able to draw a comic. 
 
-As part of 9th grade everyone had to pick an _elective_ subject [^1]. Most boys wanted to either take Electronics or Yoga because the _Sirs_ [^2] would take the kids to play games in the field rather than teach the subject. Unfortunately, there was limited capacity in either of those, so students had to fill out a ranking of what subject they would take if the first choices weren't available. Yoga and Electronics were my top choices, and as my last choice I decided to put _Commercial Art_, which I thought was a drawing class since it had the word "Art" in it.
+There were others who were able to draw better. I had friends who used to draw with straight confident lines, beautifully articulated fingers, realistic duplicates of cartoons. But I appreciated their drawings, and enjoyed doing my own. 
+
+Drawing doodles for my own sake was a completely safe space to express myself -- though as a kid I never realized that or had those words. But I completely stopped doodling around the 9th grade.
+
+As part of 9th grade everyone had to pick an _SUPW_ [^1]  subject (elective). Most boys wanted to either take Electronics or Yoga because the _Sirs_ [^2] would take the kids to play games in the field rather than teach the subject. Unfortunately, there was limited capacity in each subject. So students had to fill out a ranking of what subject they would take if the first choices weren't available. Yoga and Electronics were my top choices, and as my last choice I decided to put _Commercial Art_, which I thought was a drawing class since it had the word "Art" in it.
 
 Well turns out, _Commercial Art_ wasn't really the kind of drawing that I did.
 
@@ -23,7 +27,7 @@ I was a good student, so I finished the assignment to the best of my ability. Bu
 
 It was around that time that I stopped drawing. The _Commercial Art_ class incident influenced me. But also, I considered myself a grown-up and relegated drawing to something that's associated with kids.
 
-Since then drawing has always been in the background, as something that I wanted to pick up again. But I never really got down to it. I once picked up "Drawing on the right side of the brain", but never really got past the first exercise where she asks you to draw a self-portrait and your hands. I also tried the drawabox.com course, I went past some assignments but didn't really get to draw anything of my own.
+Since then drawing has always been in the background, as something that I wanted to pick up again. But I never really got down to it. I once picked up ["Drawing on the right side of the brain"](https://www.drawright.com/), but never really got past the first exercise where she asks you to draw a self-portrait and your hands. I also tried the [drawabox.com](https://drawabox.com/) course. I did some assignments but didn't really get to draw anything of my own.
 
 -------
 
@@ -33,7 +37,7 @@ I loved the class. Without going into the details of what we did, this is what I
 
 ![Sunday Drawing](https://www.krowmedy.org/assets/images/time-i-stopped-drawing/sunday.jpg)
 
-The class gave back something that I feel was taken from me -- the confidence that I knew that I can draw. It may not be the best, but it is mine. 
+The class gave back something that I feel was taken from me -- the confidence that I knew that I can draw. It may not be the best art, but it is mine. 
 
 And at the end of the day, the essesnce of art is having the courage to express yourself.
 
