@@ -33,7 +33,7 @@ Since then drawing has always been in the background, as something that I wanted
 
 -------
 
-Now two weeks ago, after grabbing a coffee from [Modern Standard Coffee](https://modernstandardcoffee.co.uk/), I did something that most people like to do these days. I opened my phone and started clicking on things aimlessly. I opened Google Maps, perhaps to check out if there was a Thai Chi place nearby, but instead clicked on the Modern Standard Coffee shop. And Maps said that there was a ["Let's Draw Something Fun"](https://www.eventbrite.co.uk/e/lets-draw-something-fun-tickets-403964969097) event happening soon on a *Sunday*. I was curious, and I signed up.
+Now two weeks ago, after grabbing a coffee from [Modern Standard Coffee](https://modernstandardcoffee.co.uk/), I did something that most people like to do these days. I opened my phone and started clicking on things aimlessly. I opened Google Maps, perhaps to check out if there was a Tai Chi place nearby, but instead clicked on the Modern Standard Coffee shop. And Maps said that there was a ["Let's Draw Something Fun"](https://www.eventbrite.co.uk/e/lets-draw-something-fun-tickets-403964969097) event happening soon on a *Sunday*. I was curious, and I signed up.
 
 I loved the class. Without going into the details of what we did, this is what I drew:
 
