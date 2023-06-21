@@ -41,7 +41,7 @@ The class gave back something that I feel was taken from me -- the confidence th
 
 And at the end of the day, the essesnce of art is having the courage to express yourself.
 
-[^1]: It was actually called [SUPW](https://en.wikipedia.org/wiki/Socially_Useful_Productive_Work) which stood for "Socially Useful Productive Work". But us students called it "Some Useful Period Wasted".
+[^1]: [SUPW](https://en.wikipedia.org/wiki/Socially_Useful_Productive_Work) stood for "Socially Useful Productive Work". But us students called it "Some Useful Period Wasted".
 [^2]: Male teachers were called "Sir". Female ones were called "Ma'am".
 
 
