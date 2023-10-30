@@ -3,7 +3,7 @@ title:  Routine post
 date:   2023-10-30 16:53:00 +0100
 ---
 
-I have been feeling that today has been a bit of a waste for some reason. Even though I went to the gym and slept well.
+Today has been a bit of a waste for some reason, even though I went to the gym and slept well. I therefore decided to see if writing would somehow make me feel better. Spoiler alert: it didn't.
 
 * I have been thinking about how everyone is affected by comparisons. It's a common enough thing to say: _"Don't compare yourself to others"_. But even comparing yourself to _yourself_  isn't always the best thing. For example, I was a pretty strong runner as compared to what I am today. But should I wallow-for and grasp-at that thing that I no longer am?
 
