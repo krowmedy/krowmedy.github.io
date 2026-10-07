@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Emoji Colour by Sums</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <div class="controls no-print">
+    <div class="control-group">
+      <span class="control-label">Picture</span>
+      <div id="picker" class="picker"></div>
+    </div>
+
+    <div class="control-group">
+      <span class="control-label">Sheet</span>
+      <div class="buttons">
+        <button type="button" id="btn-new">New sums</button>
+        <button type="button" id="btn-check">Check</button>
+        <button type="button" id="btn-reveal" aria-pressed="false">Reveal</button>
+        <button type="button" id="btn-print">Print</button>
+      </div>
+    </div>
+
+    <p class="hint">
+      Pick a colour from the key below, then click or drag across the squares to colour them in.
+      Click a square again with the same colour to rub it out.
+    </p>
+  </div>
+
+  <div class="sheet">
+    <h1>Emoji Addition and Subtraction Facts up to 10</h1>
+    <p class="instructions">
+      Solve the calculations to reveal the hidden picture.<br>
+      Each answer has a special colour:
+    </p>
+
+    <div id="key" class="key"></div>
+
+    <table id="grid" class="grid" role="presentation"></table>
+  </div>
+
+  <script src="emojis.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
