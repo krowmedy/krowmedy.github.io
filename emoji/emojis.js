@@ -271,5 +271,27 @@ window.EMOJIS = [
       'ROGB..BGOR',
       'ROGB..BGOR'
     ]
+  },
+  {
+    id: 'alien',
+    name: 'Alien',
+    glyph: '\u{1F47D}',
+    palette: [
+      { key: 'G', name: 'Green', hex: '#8BC34A' },
+      { key: 'K', name: 'Black', hex: '#2B2B2B' },
+      { key: 'P', name: 'Pink',  hex: '#FF9FB0' }
+    ],
+    art: [
+      '.PP....PP.',
+      '..G....G..',
+      '..GGGGGG..',
+      '.GGGGGGGG.',
+      'GGGGGGGGGG',
+      'GKKGGGGKKG',
+      'GKKGGGGKKG',
+      '.GGGGGGGG.',
+      '..GGPPGG..',
+      '...GGGG...'
+    ]
   }
 ];
